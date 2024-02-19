@@ -1,0 +1,14 @@
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\PTI POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\PTI POO.AssemblyInfoInputs.cache
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\PTI POO.AssemblyInfo.cs
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\PTI POO.csproj.CoreCompileInputs.cache
+C:\Users\Zhennyn\Desktop\PTI POO\bin\Debug\net8.0\PTI POO.exe
+C:\Users\Zhennyn\Desktop\PTI POO\bin\Debug\net8.0\PTI POO.deps.json
+C:\Users\Zhennyn\Desktop\PTI POO\bin\Debug\net8.0\PTI POO.runtimeconfig.json
+C:\Users\Zhennyn\Desktop\PTI POO\bin\Debug\net8.0\PTI POO.dll
+C:\Users\Zhennyn\Desktop\PTI POO\bin\Debug\net8.0\PTI POO.pdb
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\PTI POO.dll
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\refint\PTI POO.dll
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\PTI POO.pdb
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\PTI POO.genruntimeconfig.cache
+C:\Users\Zhennyn\Desktop\PTI POO\obj\Debug\net8.0\ref\PTI POO.dll
